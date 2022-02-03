@@ -6,5 +6,5 @@
 
 2- قم بطباعة الجملة  التالية
                                                                                                                                                                                 ```
-السلام عليكم، معاكم محمد و رقمي المفضل هو 64 وهوايتي اللعب.
+.Hi, My name is Mohammed, my favourite number is 64 and my hobby is video games
                                                                                                                                                                                 ```
